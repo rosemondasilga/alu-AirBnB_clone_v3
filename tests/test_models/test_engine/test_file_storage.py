@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-Contains the FileStorage class
-"""
+"""tests the filestorag class"""
 
 import json
 from models.amenity import Amenity
